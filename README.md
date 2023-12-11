@@ -28,8 +28,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install C++ re-distributable
 - Configure permissions & install OsTicket
 
-<h2>Installation Steps</h2>
-Part 1: Creating a Virtual Machine in Azure
+<h2>Part 1: Installation Steps</h2>
+Creating a Virtual Machine in Azure:
 
 1. Establish a Resource Group.
 2. Set up a Windows 10 Virtual Machine (VM) featuring 2-4 Virtual CPUs.
